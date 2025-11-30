@@ -132,9 +132,9 @@ COLOR_BOXING_RING       = YELLOW + 8
    ENDIF
 
 ; COLOR_LEFT_BOXER        = BLACK + 12
-COLOR_LEFT_BOXER        = $44 ; new color for left boxer (Ivan Drago)
+COLOR_LEFT_BOXER        = $84 ; new color for left boxer (Ivan Drago)
 ; COLOR_RIGHT_BOXER       = BLACK
-COLOR_RIGHT_BOXER       = $84 ; new color for right boxer (Rocky Balboa)
+COLOR_RIGHT_BOXER       = $44 ; new color for right boxer (Rocky Balboa)
 COLOR_BACKGROUND        = DK_GREEN + 6
 
 ;===============================================================================
